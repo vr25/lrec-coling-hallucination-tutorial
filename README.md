@@ -1,4 +1,4 @@
-# ACL 2023 Tutorial: Retrieval-based Language Models and Applications
+# LREC-COLING 2024 Tutorial: Hallucination in Large Language Models
 
 The code is adapted from the [Nerfies website](https://nerfies.github.io).
 
